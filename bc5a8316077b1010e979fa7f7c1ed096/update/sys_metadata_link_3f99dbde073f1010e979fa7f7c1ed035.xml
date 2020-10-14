@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>15d71312077f1010e979fa7f7c1ed0ae</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_305033_wish_list_wish_item">
+    <x_305033_wish_list_wish_item action="INSERT_OR_UPDATE">
+        <item>qqq</item>
+        <quantity/>
+        <requester display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</requester>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 08:34:36</sys_created_on>
+        <sys_id>15d71312077f1010e979fa7f7c1ed0ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 08:34:36</sys_updated_on>
+        <url/>
+    </x_305033_wish_list_wish_item>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 08:42:11</sys_created_on>
+        <sys_id>3f99dbde073f1010e979fa7f7c1ed035</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>qqq</sys_name>
+        <sys_package display_value="Wish list" source="x_305033_wish_list">bc5a8316077b1010e979fa7f7c1ed096</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish list">bc5a8316077b1010e979fa7f7c1ed096</sys_scope>
+        <sys_update_name>sys_metadata_link_3f99dbde073f1010e979fa7f7c1ed035</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 08:42:11</sys_updated_on>
+        <tablename>x_305033_wish_list_wish_item</tablename>
+    </sys_metadata_link>
+</record_update>
