@@ -6,7 +6,7 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Display name</column_label>
@@ -29,7 +29,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>300</max_length>
+        <max_length>350</max_length>
         <name>x_305033_wish_list_wish_item</name>
         <next_element/>
         <primary>false</primary>
@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-10-14 09:02:20</sys_created_on>
-        <sys_id>fe3e9356077f1010e979fa7f7c1ed0d4</sys_id>
+        <sys_id>5cc023d6077f1010e979fa7f7c1ed077</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Display name</sys_name>
         <sys_package display_value="Wish list" source="x_305033_wish_list">bc5a8316077b1010e979fa7f7c1ed096</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Wish list">bc5a8316077b1010e979fa7f7c1ed096</sys_scope>
         <sys_update_name>sys_dictionary_x_305033_wish_list_wish_item_display_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-14 09:02:20</sys_updated_on>
+        <sys_updated_on>2020-10-14 09:15:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
